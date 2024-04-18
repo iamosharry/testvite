@@ -11,6 +11,7 @@ function App() {
     <>
       <div>
         <h1>TEXT ARE WORKING</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, iste. Beatae qui ipsam id reiciendis. Numquam nostrum enim ut modi.</p>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
           
