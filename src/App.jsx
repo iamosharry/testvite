@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import smile from '../public/smiling-burger.png'
+import smile from './assets/smiling-burger.png'
 import viteLogo from '/vite.svg'
 import './App.css'
 
@@ -13,6 +13,7 @@ function App() {
         <h1>TEXT ARE WORKING</h1>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
+          
           
         </a>
         <a href="https://react.dev" target="_blank">
